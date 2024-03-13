@@ -21,7 +21,9 @@ for (let i = 0; i < eksempleArray.length; i++) {
 
 
 
-![trøjborg bryg øl](/img/dusk-01.webp "Det her er et billede af en øl fra mit eksamens projekt")
+![trøjborg bryg øl](/img/dusk-01.webp)
+Det her er et billede af en øl fra mit eksamens projekt
+
 
 
 > Wake up to reality. Nothing ever goes as planned in this world. The longer you live, the more you realize that only pain, suffering, and futility exist in this reality.
