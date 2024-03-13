@@ -22,7 +22,7 @@ for (let i = 0; i < eksempleArray.length; i++) {
 
 
 ![trøjborg bryg øl](/img/dusk-01.webp)
-Det her er et billede af en øl fra mit eksamens projekt
+*Det her er et billede af en øl fra mit eksamens projekt*
 
 
 
